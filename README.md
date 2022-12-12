@@ -3,17 +3,8 @@
 </a>
 
 <div align = "center">
-  <a href="https://fastcampus.co.kr/dev_red_rsj?utm_source=soojin-github&utm_medium=readme&utm_campaign=soojin">
-    <img src="https://img.shields.io/badge/강의-패스트캠퍼스-red?style=flat" />
-  </a>
   <a href="https://soojin.ro">
-    <img src="https://img.shields.io/badge/iOS개발자-노수진-orange?style=flat" />
-  </a>
-  <a href="https://github.com/nsoojin/MiniSuperApp-fastcampus">
-    <img src="https://img.shields.io/badge/실습 프로젝트-미니슈퍼앱-378805?style=flat" />
-  </a>
-  <a href="https://github.com/nsoojin/MiniSuperApp-fastcampus/discussions/categories/아무-질문이나-환영합니다">
-    <img src="https://img.shields.io/badge/질문-환영-ffda00?style=flat" />
+    <img src="https://img.shields.io/badge/iOSエンジニア-ノ・スジン-orange?style=flat" />
   </a>
 </div>
 
