@@ -1,4 +1,4 @@
-<a href="https://fastcampus.co.kr/dev_red_rsj?utm_source=soojin-github&utm_medium=readme&utm_campaign=soojin">
+<a href="https://coloso.jp/programming/iosengineer-rosoojin-jp?utm_source=soojin-github&utm_medium=readme&utm_campaign=soojin">
   <img src="https://github.com/nsoojin/MiniSuperApp-jp/blob/main/assets/rosoojin-point-web.png?raw=true" />
 </a>
 
